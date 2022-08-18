@@ -1,0 +1,17 @@
+[
+    {
+        "image": "time.svg",
+        "title": "Build in minutes",
+        "description": "With a selection of premade templates, you can build out a prtfolio in less than 10 minutes."
+    },
+    {
+        "image": "code.svg",
+        "title": "Add custom CSS",
+        "description": "Customize your personal portfolio even more with the ability to add your own custom CSS styles."
+    },
+    {
+        "image": "allSizes.svg",
+        "title": "Responsive",
+        "description": "All Fiber templates are fully responsive to ensure the experience is seemless across all devices."
+    }
+]
